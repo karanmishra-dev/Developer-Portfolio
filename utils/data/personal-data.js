@@ -13,6 +13,6 @@ export const personalData = {
   twitter: 'https://www.linkedin.com/in/karan-mishra-developer/',
   stackOverflow: 'https://www.linkedin.com/in/karan-mishra-developer/',
   leetcode: "https://leetcode.com/u/KaranMi/",
-  devUsername: "karan_mishra_5ab57c7c4",
-  resume: "https://drive.google.com/file/d/1mnfiTrzCaq8uZZr_viH3DG6LsePkJxtw/view?usp=drive_link"
+  // devUsername: "karan_mishra_5ab57c7c4",
+  resume: "https://drive.google.com/file/d/1DjgrYP5S5Qww7_UYTdLIOgGb5bzU_ltr/view?usp=drive_link"
 }
